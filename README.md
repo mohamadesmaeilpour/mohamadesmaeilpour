@@ -1,8 +1,9 @@
 # 👤 I'm Mohammad
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`Digital Craftsman (Developer)`**
 
 👋 Hello, I'm Mohammad Esmaeilpour, a passionate Frontend Developer.
+<br/>
 💼 Currently, I work as a Frontend Developer, leveraging my skills in React.js, Next.js, and TypeScript to develop robust and scalable applications. I am experienced in building responsive layouts, managing state with Redux and zustand. Additionally, I have a good understanding of RESTful APIs, version control with Git, and continuous integration and deployment workflows.
 
 ---
@@ -23,11 +24,7 @@
 </div>
 <br />
 
-
-
 ---
-
-#
 
 ### 📊 Stats
 
@@ -39,9 +36,15 @@
 
 <details>
  <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
-   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full-stack software engineering job upon graduation. However, I had another desire I had been pursuing throughout this time - YouTube content creation. I eventually ended up quitting my software engineering job to pursue YouTube full-time, and that has been my focus ever since. But there's something that's always bothered me about my journey - abandoning my dream of building my own app to pursue the safe route, a job. Now I've already taken the leap away from that safety net into this uncomfortable, unexplored world that it being a creator. And it worked out, but again, it became comfortable. It's easier to create a video than go out on a ledge and build my own product. I do have to eat, at the end of the day, but I think it's time. It's time to get uncomfortable again. I have a burning desire to get back on the horse, and fulfill that dream younger me had of building my own app, my own product. And in order to do that, I'll be implmementing a few measures to streamline my YouTube content to focus more time on fulfilling that dream - a dream that I'll be ready to tackle in 2023 due to the measure I'm putting in place now until the end of 2022. Don't wait up, because I'm coming.
-
-<details>
+   🚀 With a strong foundation in web development and a focus on creating intuitive user interfaces, I strive to build engaging and interactive web applications that deliver exceptional user experiences. I have a solid understanding of modern web development principles and best practices, and I'm always eager to learn and stay up to date with the latest industry trends.
+<br/>
+  💼 Currently, I work as a Frontend Developer, leveraging my skills in React.js, Next.js, and TypeScript to develop robust and scalable applications. I am experienced in building responsive layouts, managing state with Redux, and utilizing GraphQL for efficient data retrieval. Additionally, I have a good understanding of RESTful APIs, version control with Git, and continuous integration and deployment workflows.
+<br/>
+  🌟 I am a strong advocate for clean and maintainable code, and I prioritize writing modular and reusable components. I pay attention to details and enjoy optimizing performance to ensure smooth and fast user experiences. I am comfortable working in Agile/Scrum environments and collaborating with cross-functional teams to deliver high-quality products.
+<br/>
+  📚 When I'm not coding, you can find me exploring new technologies, reading tech blogs, and participating in online communities to share knowledge and learn from others.
+<br/>
+  ✨ If you're interested in my work, feel free to explore my GitHub repositories below. I'm always open to collaboration and would love to connect with fellow developers.
 
 [website]: https://fkcodes.com
 [youtube]: https://youtube.com/fknight
