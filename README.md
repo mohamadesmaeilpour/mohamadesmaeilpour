@@ -7,7 +7,7 @@
 
 ---
 
-[Check out my LinkedIn post](https://www.linkedin.com/posts/mohammad-esmaeilpour-4ab401217_github-mohamadesmaeilpourreact-tailwind-reactrouter-absoluteurl-activity-7060628949545971712-UkXx?utm_source=share&utm_medium=member_desktop)
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7060628948967149568" height="674" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
 
 ### 🧰 Languages and Tools
