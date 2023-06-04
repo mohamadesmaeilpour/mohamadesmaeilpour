@@ -31,7 +31,7 @@
 
 ### 📊 Stats
 
-![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamadesmaeilpour&show_icons=true&theme=transparent)
+![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamadesmaeilpour&show_icons=true&theme=github_dark )
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
