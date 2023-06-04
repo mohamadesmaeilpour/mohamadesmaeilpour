@@ -7,6 +7,9 @@
 
 ---
 
+[Check out my LinkedIn post](https://www.linkedin.com/posts/mohammad-esmaeilpour-4ab401217_github-mohamadesmaeilpourreact-tailwind-reactrouter-absoluteurl-activity-7060628949545971712-UkXx?utm_source=share&utm_medium=member_desktop)
+
+
 ### 🧰 Languages and Tools
 
 <div style="background-color: lightgray;display: flex;justify-content: space-evenly;">
@@ -37,7 +40,8 @@
 [![Elon Musk is building TruthGPT…](https://ytcards.demolab.com/?id=TOIRY9UjAMI&title=Elon+Musk+is+building+TruthGPT%E2%80%A6&lang=en&timestamp=1682002817&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=53 "Elon Musk is building TruthGPT…")](https://www.youtube.com/watch?v=TOIRY9UjAMI)
 [![Don't sleep on Nvidia.](https://ytcards.demolab.com/?id=dgmQ-IAANAc&title=Don%27t+sleep+on+Nvidia.&lang=en&timestamp=1681909225&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=482 "Don't sleep on Nvidia.")](https://www.youtube.com/watch?v=dgmQ-IAANAc)
 [![These AI TOOLS will help you CODE BETTER](https://ytcards.demolab.com/?id=jArtVVbYGKk&title=These+AI+TOOLS+will+help+you+CODE+BETTER&lang=en&timestamp=1681390835&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=756 "These AI TOOLS will help you CODE BETTER")](https://www.youtube.com/watch?v=jArtVVbYGKk)
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7060628948967149568" height="674" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+
 
 <!-- END YOUTUBE-CARDS -->
 
