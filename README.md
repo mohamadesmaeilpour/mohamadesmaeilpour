@@ -30,14 +30,14 @@
 <!-- BEGIN YOUTUBE-CARDS -->
 
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7060628948967149568" height="674" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
 [![I Accidentally Made a Future Proof API (with AI and Web Data)](https://ytcards.demolab.com/?id=tF1vJ71KnHY&title=I+Accidentally+Made+a+Future+Proof+API+%28with+AI+and+Web+Data%29&lang=en&timestamp=1685459704&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=385 "I Accidentally Made a Future Proof API (with AI and Web Data)")](https://www.youtube.com/watch?v=tF1vJ71KnHY)
 [![The Making of GNU: The World's First Open-Source Software](https://ytcards.demolab.com/?id=sQDvkd2wtxU&title=The+Making+of+GNU%3A+The+World%27s+First+Open-Source+Software&lang=en&timestamp=1684076438&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=484 "The Making of GNU: The World's First Open-Source Software")](https://www.youtube.com/watch?v=sQDvkd2wtxU)
 [![AI bots were given freedom in a virtual city…](https://ytcards.demolab.com/?id=FBvyxc0PSlc&title=AI+bots+were+given+freedom+in+a+virtual+city%E2%80%A6&lang=en&timestamp=1683126008&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=291 "AI bots were given freedom in a virtual city…")](https://www.youtube.com/watch?v=FBvyxc0PSlc)
 [![Elon Musk is building TruthGPT…](https://ytcards.demolab.com/?id=TOIRY9UjAMI&title=Elon+Musk+is+building+TruthGPT%E2%80%A6&lang=en&timestamp=1682002817&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=53 "Elon Musk is building TruthGPT…")](https://www.youtube.com/watch?v=TOIRY9UjAMI)
 [![Don't sleep on Nvidia.](https://ytcards.demolab.com/?id=dgmQ-IAANAc&title=Don%27t+sleep+on+Nvidia.&lang=en&timestamp=1681909225&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=482 "Don't sleep on Nvidia.")](https://www.youtube.com/watch?v=dgmQ-IAANAc)
 [![These AI TOOLS will help you CODE BETTER](https://ytcards.demolab.com/?id=jArtVVbYGKk&title=These+AI+TOOLS+will+help+you+CODE+BETTER&lang=en&timestamp=1681390835&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=756 "These AI TOOLS will help you CODE BETTER")](https://www.youtube.com/watch?v=jArtVVbYGKk)
-
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7060628948967149568" height="674" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
 <!-- END YOUTUBE-CARDS -->
 
