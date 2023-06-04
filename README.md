@@ -6,9 +6,10 @@
 <br/>
 💼 Currently, I work as a Frontend Developer, leveraging my skills in React.js, Next.js, and TypeScript to develop robust and scalable applications. I am experienced in building responsive layouts, managing state with Redux and zustand. Additionally, I have a good understanding of RESTful APIs, version control with Git, and continuous integration and deployment workflows.
 
----
+
 
 ### 🧰 Languages and Tools
+<br />
 
 <div style="background-color: lightgray;display: flex;justify-content: space-evenly;">
 <img align="left" alt="Next Js" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
@@ -26,7 +27,7 @@
 <br />
 <br />
 
----
+
 
 ### 📊 Stats
 
@@ -34,7 +35,7 @@
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
-#
+
 
 <details>
  <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
