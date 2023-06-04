@@ -6,7 +6,7 @@
 💼 Currently, I work as a Frontend Developer, leveraging my skills in React.js, Next.js, and TypeScript to develop robust and scalable applications. I am experienced in building responsive layouts, managing state with Redux and zustand. Additionally, I have a good understanding of RESTful APIs, version control with Git, and continuous integration and deployment workflows.
 
 ---
-
+###
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7060628948967149568" height="674" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
 
